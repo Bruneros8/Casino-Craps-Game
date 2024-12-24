@@ -17,7 +17,7 @@ This project is a Java-based implementation of the classic casino dice game Crap
 To play the game:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Casino-Craps-Game.git
+   git clone https://github.com/Bruneros8/Casino-Craps-Game.git
    ```
 2. Navigate to the project directory:
    ```bash
