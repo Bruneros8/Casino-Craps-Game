@@ -1,6 +1,6 @@
 # Casino Craps Game
 
-This project is a Java-based implementation of the classic casino dice game Craps. It provides an interactive, text-based experience that simulates the rules and gameplay of Craps, including dice rolling and statistical tracking of outcomes.
+This project is a Java-based implementation of the classic casino dice game Craps, being the school assessment. It provides an interactive, text-based experience that simulates the rules and gameplay of Craps, including dice rolling and statistical tracking of outcomes.
 
 ## Features
 - **Interactive Gameplay**: Text-based prompts guide the player through the game.
@@ -31,9 +31,13 @@ To play the game:
    ```bash
    java Craps
    ```
+
 ## How to Play
 1. **Objective**: Roll two dice to achieve specific outcomes:
    - **Win Immediately**: Rolling a 7 or 11 on the first roll.
    - **Lose Immediately**: Rolling a 2, 3, or 12 on the first roll.
    - **Point Value**: Any other roll becomes the "point," and the player must roll that number again before rolling a 7 to win.
 3. **Player Input**: Follow the prompts and press `Enter` to roll the dice.
+
+## Acknowledgment
+This project was completed as part of a school assessment to demonstrate proficiency in Java programming. Feedback and suggestions for improvement are welcome.
